@@ -2,10 +2,6 @@
 
 ImageStudio is a modern image processing web application built with **React, TypeScript, and Vite**. It provides an easy and efficient way to upload, edit, and download images through a clean and responsive interface.
 
-## 📖 About
-
-ImageStudio is a simple and user-friendly web app for editing images online. Visit the website: https://imagepro-ivory.vercel.app/
-
 ## ✨ Features
 
 - 📤 Upload and preview images
